@@ -2,10 +2,10 @@ from setuptools import setup
 
 setup(
     name="django-redis-cache-qube",
-    url="http://github.com/sebleier/django-redis-cache/",
-    author="Sean Bleier",
-    author_email="sebleier@gmail.com",
-    version="3.0.2",
+    url="http://github.com/qube_money/django-redis-cache/",
+    author="Qube Money",
+    author_email="admin@qubemoney.com",
+    version="3.0.3",
     license="BSD",
     packages=["redis_cache", "redis_cache.backends"],
     description="Redis Cache Backend for Django",
