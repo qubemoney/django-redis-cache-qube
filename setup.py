@@ -5,7 +5,7 @@ setup(
     url="http://github.com/qube_money/django-redis-cache/",
     author="Qube Money",
     author_email="admin@qubemoney.com",
-    version="3.0.3",
+    version="3.0.4",
     license="BSD",
     packages=["redis_cache", "redis_cache.backends"],
     description="Redis Cache Backend for Django",
