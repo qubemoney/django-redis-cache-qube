@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="django-redis-cache-qube",
-    url="http://github.com/qube_money/django-redis-cache/",
+    url="http://github.com/qube_money/django-redis-cache-qube/",
     author="Qube Money",
     author_email="admin@qubemoney.com",
     version="3.0.4",
